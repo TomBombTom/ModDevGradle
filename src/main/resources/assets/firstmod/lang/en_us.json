@@ -1,6 +1,10 @@
 {
   "item.firstmod.bismuth": "Bismuth",
   "item.firstmod.raw_bismuth": "Raw Bismuth",
+
+  "block.firstmod.bismuth_block": "Block of Bismuth",
+  "block.firstmod.bismuth_ore": "Bismuth Ore",
+
   "firstmod.configuration.title": "Example Mod Configs",
   "firstmod.configuration.section.firstmod.common.toml": "Example Mod Configs",
   "firstmod.configuration.section.firstmod.common.toml.title": "Example Mod Configs",

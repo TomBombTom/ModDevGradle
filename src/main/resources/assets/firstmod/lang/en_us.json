@@ -1,0 +1,11 @@
+{
+  "item.firstmod.bismuth": "Bismuth",
+  "item.firstmod.raw_bismuth": "Raw Bismuth",
+  "firstmod.configuration.title": "Example Mod Configs",
+  "firstmod.configuration.section.firstmod.common.toml": "Example Mod Configs",
+  "firstmod.configuration.section.firstmod.common.toml.title": "Example Mod Configs",
+  "firstmod.configuration.items": "Item List",
+  "firstmod.configuration.logDirtBlock": "Log Dirt Block",
+  "firstmod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "firstmod.configuration.magicNumber": "Magic Number"
+}
